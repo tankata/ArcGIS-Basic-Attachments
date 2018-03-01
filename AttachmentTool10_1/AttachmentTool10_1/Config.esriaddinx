@@ -1,0 +1,25 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>Attachment Tool for ArcGIS 10.1</Name>
+  <AddInID>{b25842b5-b6d4-44c7-b58c-d46565e5b0cb}</AddInID>
+  <Description>Wind Gap Borough Custom Attachment Tool for Parcels and Documents</Description>
+  <Version>1.0</Version>
+  <Image>Images\AttachmentTool.png</Image>
+  <Author>Joseph Greenleaf</Author>
+  <Company>Joseph Greenleaf</Company>
+  <Date>5/28/2016</Date>
+  <Targets>
+    <Target name="Desktop" version="10.1" />
+  </Targets>
+  <AddIn language="CLR4.0" library="AttachmentTool10_1.dll" namespace="AttachmentTool10_1">
+    <ArcMap>
+      <Commands>
+        <Button id="Microsoft_AttachmentTool10_1_AttachmentStart" class="AttachmentStart" message="Attachment Table Tool" caption="Attachment Tool" tip="Launch Attachment Tool" category="Wind Gap Borough" image="Images\buttonInitialize.png" />
+      </Commands>
+      <DockableWindows>
+        <DockableWindow id="Microsoft_AttachmentTool10_1_AttachmentDockWin" class="AttachmentDockWin+AddinImpl" caption="Attachment Tool" image="Images\docWinIcon.png">
+          <InitialPlacement height="300" width="300" state="pinned" position="right" />
+        </DockableWindow>
+      </DockableWindows>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

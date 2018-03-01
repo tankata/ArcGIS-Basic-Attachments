@@ -1,0 +1,7 @@
+C:\Users\Joseph\Documents\Development\GIS Development\Wind Gap Borough\Attachment Tool ArcGIS 10_1\AttachmentTool10_1\AttachmentTool10_1\bin\Release\AttachmentTool10_1.dll
+C:\Users\Joseph\Documents\Development\GIS Development\Wind Gap Borough\Attachment Tool ArcGIS 10_1\AttachmentTool10_1\AttachmentTool10_1\bin\Release\AttachmentTool10_1.pdb
+C:\Users\Joseph\Documents\Development\GIS Development\Wind Gap Borough\Attachment Tool ArcGIS 10_1\AttachmentTool10_1\AttachmentTool10_1\obj\Release\AttachmentTool10_1.AttachmentDockWin.resources
+C:\Users\Joseph\Documents\Development\GIS Development\Wind Gap Borough\Attachment Tool ArcGIS 10_1\AttachmentTool10_1\AttachmentTool10_1\obj\Release\AttachmentTool10_1.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\Development\GIS Development\Wind Gap Borough\Attachment Tool ArcGIS 10_1\AttachmentTool10_1\AttachmentTool10_1\obj\Release\AttachmentTool10_1.dll
+C:\Users\Joseph\Documents\Development\GIS Development\Wind Gap Borough\Attachment Tool ArcGIS 10_1\AttachmentTool10_1\AttachmentTool10_1\obj\Release\AttachmentTool10_1.pdb
+C:\Users\Joseph\Documents\Development\GIS Development\Wind Gap Borough\Attachment Tool ArcGIS 10_1\AttachmentTool10_1\AttachmentTool10_1\bin\Release\AttachmentTool10_1.esriAddIn
