@@ -1,5 +1,5 @@
 # ArcGIS Basic Attachments
-ArcObjects C#.NET Tool to create an attachment table for those with a Basic license level
+An ArcObjects C#.NET Tool to create an attachment table for those with a Basic license level
 
 The ability to attach files and documents to features in ArcGIS is available to those with Standard and Advanced license levels. This tool aims to provide some that same ability at the Basic level.
 
